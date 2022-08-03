@@ -1,5 +1,5 @@
 #algoritmos
-<n>these 14 mini projects are solutions to problems proposed by UNICAMP's subject MC102(Algorithm).<n/>
+<br>these 14 mini projects are solutions to problems proposed by UNICAMP's subject MC102(Algorithm).<br/>
 all files have been fixed through Codepost
 PS: the lab.0 don't have command because it was a test for understand how worked Codepost
 lab.1 about simple interaction between consumer and business
